@@ -5,3 +5,4 @@ const loader = () => {
 }
 console.log('ks')
 alert('sdsd')
+console.log('do it make it saz it')
