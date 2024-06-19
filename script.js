@@ -4,3 +4,4 @@ const loader = () => {
     })
 }
 console.log('ks')
+alert('sdsd')
