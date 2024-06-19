@@ -3,3 +3,4 @@ const loader = () => {
         return true
     })
 }
+console.log('ks')
